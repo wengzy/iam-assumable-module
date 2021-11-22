@@ -1,4 +1,4 @@
-# Individual IAM assumable roles example
+#  IAM assumable roles/policy/group/user
 
 Configuration in this directory creates several individual IAM roles which can be assumed from a defined list of [IAM ARNs](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_identifiers.html#identifiers-arns).
 
