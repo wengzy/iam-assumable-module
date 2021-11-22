@@ -32,10 +32,10 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_iam_assumable_role_custom"></a> [iam\_assumable\_role\_custom](#module\_iam\_assumable\_role\_custom) | ../../modules/iam-assumable-role |  |
-| <a name="module_iam_assumable_policy_custom"></a> [iam\_assumable\_policy\_custom](#module\_iam\_assumable\_policy\_custom) | ../../modules/iam-assumable-policy |  |
-| <a name="module_iam_assumable_group_custom"></a> [iam\_assumable\_group\_custom](#module\_iam\_assumable\_group\_custom) | ../../modules/iam-assumable-group |  |
-| <a name="module_iam_assumable_user_custom"></a> [iam\_assumable\_user\_custom](#module\_iam\_assumable\_user\_custom) | ../../modules/iam-assumable-user |  |
+| <a name="module_iam_assumable_role_custom"></a> [iam\_assumable\_role\_custom](#module\_iam\_assumable\_role\_custom) | ../../modules/iam-assumable-role_custom |  |
+| <a name="module_iam_assumable_policy_custom"></a> [iam\_assumable\_policy\_custom](#module\_iam\_assumable\_policy\_custom) | ../../modules/iam-assumable-policy_custom |  |
+| <a name="module_iam_assumable_group_custom"></a> [iam\_assumable\_group\_custom](#module\_iam\_assumable\_group\_custom) | ../../modules/iam-assumable-group_custom |  |
+| <a name="module_iam_assumable_user_custom"></a> [iam\_assumable\_user\_custom](#module\_iam\_assumable\_user\_custom) | ../../modules/iam-assumable-user_custom |  |
 |
 
 ## Resources
