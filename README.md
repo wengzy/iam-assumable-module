@@ -1,4 +1,4 @@
-#  IAM assumable roles/policy/group/user
+#  terffaform modile for IAM assumable roles/policy/group/user
 
 Configuration in this directory creates several individual IAM roles which can be assumed from a defined list of [IAM ARNs](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_identifiers.html#identifiers-arns).
 
@@ -47,13 +47,4 @@ No resources.
 No inputs.
 
 ## Outputs
-
-| Name | Description |
-|------|-------------|
-| <a name="output_iam_instance_profile_id"></a> [iam\_instance\_profile\_id](#output\_iam\_instance\_profile\_id) | IAM Instance profile's ID. |
-| <a name="output_iam_role_arn"></a> [iam\_role\_arn](#output\_iam\_role\_arn) | ARN of IAM role |
-| <a name="output_iam_role_name"></a> [iam\_role\_name](#output\_iam\_role\_name) | Name of IAM role |
-| <a name="output_iam_role_path"></a> [iam\_role\_path](#output\_iam\_role\_path) | Path of IAM role |
-| <a name="output_iam_role_unique_id"></a> [iam\_role\_unique\_id](#output\_iam\_role\_unique\_id) | Unique ID of IAM role |
-| <a name="output_role_requires_mfa"></a> [role\_requires\_mfa](#output\_role\_requires\_mfa) | Whether admin IAM role requires MFA |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+No Outputs.
